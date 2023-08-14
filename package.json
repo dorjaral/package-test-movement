@@ -1,0 +1,26 @@
+{
+	"name": "com.micompa.movement",
+	"version": "0.0.1",
+	"displayName": "Rigidbody movement",
+	"description": "Movement functionality for rigidbodies",
+	"unity": "2019.4",
+	"unityRelease": "33f1",
+	"author": {
+		"name": "Alan Dorame Jara",
+		"email": "validemail@validprovider.com",
+		"url": "http://valid-dite.com"
+	},
+	"keywords": [
+		"physics",
+		"movement",
+		"rigidbody"
+	],
+	"hideInEditor": false,
+	"samples": [
+		{
+			"displayName": "Moving capsule",
+			"description": "Example of moving a capsule",
+			"path": "Samples~/MovingCapsule"
+		}
+	]
+}
