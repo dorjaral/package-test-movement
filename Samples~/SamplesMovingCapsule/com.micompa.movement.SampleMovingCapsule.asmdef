@@ -1,0 +1,15 @@
+{
+    "name": "com.micompa.movement.SampleMovingCapsule",
+    "references": [
+        "GUID:be2083303c6fc7d44b50fa205bab5ae2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
